@@ -1,0 +1,128 @@
+﻿生成启动时间为 2017-12-02 10:36:55。
+     1>项目“I:\赛尔网络--实验室\SDNIntelligentRouting20160627\SDNIntelligentRouting\SDNIntelligentRouting\SDNIntelligentRouting.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\SDNIntelligentRouting.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\myApp\VS2010cset\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\SDNIntelligentRouting.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\myApp\VS2010cset\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SDNIntelligentRouting.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SDNIntelligentRouting.cpp
+         SDNIntelligentRouting.cpp
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(18): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(73): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(127): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(137): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(356): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(366): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(386): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(392): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(398): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(400): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(445): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(450): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(456): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(458): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(493): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(498): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(504): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(506): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(530): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(535): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(539): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(541): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(587): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(594): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(614): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(619): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(621): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\sampleset.h(627): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(52): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(61): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(34): warning C4101: “rand_n”: 未引用的局部变量
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(35): warning C4101: “path”: 未引用的局部变量
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(126): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(129): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(115): warning C4101: “path”: 未引用的局部变量
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(175): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(184): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(228): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(304): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(305): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(323): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(328): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(335): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\k_means.h(336): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myapp\vs2010cset\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\rbfnn.h(36): error C2087: “W”: 缺少下标
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\rbfnn.h(36): error C2087: “Wcopy”: 缺少下标
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\rbfnn.h(105): error C2664: “CopyWeightThreshold”: 不能将参数 1 从“double [20][6]”转换为“double [][1]”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\rbfnn.h(257): error C3861: “InitialWeight”: 找不到标识符
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\rbfnn.h(265): error C2660: “RBFTrain”: 函数不接受 2 个参数
+     1>i:\赛尔网络--实验室\sdnintelligentrouting20160627\sdnintelligentrouting\sdnintelligentrouting\rbfnn.h(272): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>已完成生成项目“I:\赛尔网络--实验室\SDNIntelligentRouting20160627\SDNIntelligentRouting\SDNIntelligentRouting\SDNIntelligentRouting.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.04

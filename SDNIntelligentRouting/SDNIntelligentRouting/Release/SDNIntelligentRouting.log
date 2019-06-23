@@ -1,0 +1,199 @@
+﻿生成启动时间为 2019-06-23 20:07:03。
+     1>项目“G:\Routing2019\SDNIntelligentRouting\SDNIntelligentRouting\SDNIntelligentRouting.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\SDNIntelligentRouting.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\myApp\VS2010cset\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\SDNIntelligentRouting.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\myApp\VS2010cset\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\SDNIntelligentRouting.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SDNIntelligentRouting.cpp
+         SDNIntelligentRouting.cpp
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(15): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\string.h(188) : 参见“strncpy”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(16): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\string.h(188) : 参见“strncpy”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(63): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(74): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(137): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(351): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(356): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(401): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(407): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(409): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(445): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(450): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(456): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(458): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(480): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(485): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(486): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(491): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(493): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(528): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(533): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(537): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(539): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(552): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(559): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(577): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(582): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(584): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\SampleSet.h(589): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(354): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(356): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(388): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(393): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(399): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(401): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(385): warning C4101: “H”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(383): warning C4101: “j”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(435): warning C4101: “H”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(433): warning C4101: “j”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(463): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(468): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(474): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(476): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(460): warning C4101: “H”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\BPNN.h(458): warning C4101: “j”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(27): warning C4101: “rand_n”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(27): warning C4101: “count”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(26): warning C4101: “fp”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(28): warning C4101: “dest”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(28): warning C4101: “Apptype”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(28): warning C4101: “path”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(28): warning C4101: “src”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(27): warning C4101: “j”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(87): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(73): warning C4101: “path”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(144): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(162): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(188): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(263): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(264): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(281): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(286): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\K_means.h(294): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(37): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(24): warning C4101: “j”: 未引用的局部变量
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(88): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(101): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_III.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_K_means.h(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_K_means.h(23): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\APC_K_means.h(31): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(74): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(144): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(202): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(207): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(211): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\routing2019\sdnintelligentrouting\sdnintelligentrouting\RBFNN.h(213): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\myApp\VS2010cset\VC\include\stdio.h(253) : 参见“fscanf”的声明
+       Link:
+         d:\myApp\VS2010cset\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Routing2019\SDNIntelligentRouting\Release\SDNIntelligentRouting.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\SDNIntelligentRouting.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Routing2019\SDNIntelligentRouting\Release\SDNIntelligentRouting.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Routing2019\SDNIntelligentRouting\Release\SDNIntelligentRouting.lib" /MACHINE:X86 Release\SDNIntelligentRouting.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         SDNIntelligentRouting.vcxproj -> G:\Routing2019\SDNIntelligentRouting\Release\SDNIntelligentRouting.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\Routing2019\SDNIntelligentRouting\Release\SDNIntelligentRouting.exe;#1" /manifest Release\SDNIntelligentRouting.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\SDNIntelligentRouting.unsuccessfulbuild”。
+         正在对“Release\SDNIntelligentRouting.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\Routing2019\SDNIntelligentRouting\SDNIntelligentRouting\SDNIntelligentRouting.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.94
